@@ -71,12 +71,14 @@ Feel free to explore my repositories and join me in this journey. Together, letâ
 
 ![Profile Views](https://komarev.com/ghpvc/?username=23Aditi)
 
+
 ### Keep Growing
 
 ![Coding Journey](https://media.giphy.com/media/Y3wz5mrj6nT2FzEoh9/giphy.gif)
 
-<iframe src="https://giphy.com/embed/gHL0GceDO9omiSXFLQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<p><a href="https://giphy.com/gifs/youtube-mental-health-withme-get-by-gHL0GceDO9omiSXFLQ">via GIPHY</a></p>
+### GIF from GIPHY
+
+![Mental Health GIF](https://media.giphy.com/media/gHL0GceDO9omiSXFLQ/giphy.gif)
 
 ---
 
