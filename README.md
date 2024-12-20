@@ -86,5 +86,14 @@ Feel free to explore my repositories and join me in this journey. Together, letâ
 - [**Object-Oriented Programming**](https://github.com/23Aditi/Object-Oriented-Programming)
 
 ---
+-----------------------
+
+### Author
+
+This project was created by [23Aditi](https://github.com/23Aditi)
+
+-----------------------
+
 
 > "Learning is a journey, and every step makes a difference." â€“ Aditi
+
