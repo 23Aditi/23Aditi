@@ -46,6 +46,7 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 <!--**LeetCode:** ![LeetCode Badge](https://img.shields.io/badge/LeetCode-%20%F0%9F%92%96-%231F8F00)  
 **GFG:** ![GFG Badge](https://img.shields.io/badge/GFG-%20%F0%9F%92%96-%23E76F51)  
 **Total Solved:** `[Auto-Updating Counter Placeholder]`-->
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)
 
 
@@ -88,7 +89,7 @@ Feel free to explore my repositories and join me in this journey. Together, letâ
 ---
 -----------------------
 
-### Author
+### Author 
 
 This project was created by [23Aditi](https://github.com/23Aditi)
 
