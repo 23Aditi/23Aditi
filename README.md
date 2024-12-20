@@ -42,22 +42,27 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 
 ## My Stats 📊
 
+### 📈 **Total Problems Solved (LeetCode)**:
 
-### 📈 **Total Problems Solved (LeetCode)**:  
-<!--**LeetCode:** ![LeetCode Badge](https://img.shields.io/badge/LeetCode-%20%F0%9F%92%96-%231F8F00)  
-**GFG:** ![GFG Badge](https://img.shields.io/badge/GFG-%20%F0%9F%92%96-%23E76F51)  
-**Total Solved:** `[Auto-Updating Counter Placeholder]`-->
+Below are some visual representations of my coding progress:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)
+### 🎯 **LeetCode Stats:**
+![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?ext=heatmap)
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)-->
+
+### 📊 **GitHub Language Stats:**
 
 ![GitHub Languages Pie Chart](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-languages-pie-chart.svg)
+
 ![GitHub Languages Sledge](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-languages-sledge.svg)
+
+### 🚴‍♂️ **GitHub Total Contributions:**
+
 ![GitHub Total Bicycle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-total-bicycle.svg)
+
+### 🔵 **LeetCode Total Info Circle:**
+
 ![LeetCode Total Info Circle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/leetcode-total-info-circle.svg)
-
-
-
-
 
 ---
 
@@ -80,7 +85,6 @@ Feel free to explore my repositories and join me in this journey. Together, let�
 
 ![Profile Views](https://komarev.com/ghpvc/?username=23Aditi)
 
-
 ### Keep Growing
 
 ![Mental Health GIF](https://media.giphy.com/media/gHL0GceDO9omiSXFLQ/giphy.gif)
@@ -95,6 +99,7 @@ Feel free to explore my repositories and join me in this journey. Together, let�
 - [**Object-Oriented Programming**](https://github.com/23Aditi/Object-Oriented-Programming)
 
 ---
+
 -----------------------
 
 ### Author 
@@ -103,6 +108,4 @@ This project was created by [23Aditi](https://github.com/23Aditi)
 
 -----------------------
 
-
 > "Learning is a journey, and every step makes a difference." – Aditi
-
