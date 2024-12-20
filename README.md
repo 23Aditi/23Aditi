@@ -50,9 +50,11 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)
 
-![GitHub Contributions](https://path_to_your_generated_image/github_contributions.svg)
-![GitHub Language Usage](https://path_to_your_generated_image/github_language_usage.svg)
-![LeetCode Stats](https://path_to_your_generated_image/leetcode_stats.svg)
+![GitHub Languages Pie Chart](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-languages-pie-chart.svg)
+![GitHub Languages Sledge](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-languages-sledge.svg)
+![GitHub Total Bicycle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-total-bicycle.svg)
+![LeetCode Total Info Circle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/leetcode-total-info-circle.svg)
+
 
 
 
