@@ -50,6 +50,11 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)
 
+![GitHub Contributions](https://path_to_your_generated_image/github_contributions.svg)
+![GitHub Language Usage](https://path_to_your_generated_image/github_language_usage.svg)
+![LeetCode Stats](https://path_to_your_generated_image/leetcode_stats.svg)
+
+
 
 
 ---
