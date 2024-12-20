@@ -42,7 +42,7 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 
 ## My Stats 📊
 
-### 📈 **Total Problems Solved (LeetCode )**:  
+### 📈 **Total Problems Solved (LeetCode)**:  
 <!--**LeetCode:** ![LeetCode Badge](https://img.shields.io/badge/LeetCode-%20%F0%9F%92%96-%231F8F00)  
 **GFG:** ![GFG Badge](https://img.shields.io/badge/GFG-%20%F0%9F%92%96-%23E76F51)  
 **Total Solved:** `[Auto-Updating Counter Placeholder]`-->
@@ -71,7 +71,8 @@ Feel free to explore my repositories and join me in this journey. Together, let�
 
 ![Profile Views](https://komarev.com/ghpvc/?username=23Aditi)
 
-![Coding Journey](https://media.giphy.com/media/Y3wz5mrj6nT2FzEoh9/giphy.gif) 
+<iframe src="https://giphy.com/embed/gHL0GceDO9omiSXFLQ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p><a href="https://giphy.com/gifs/youtube-mental-health-withme-get-by-gHL0GceDO9omiSXFLQ">via GIPHY</a></p>
 
 ---
 
