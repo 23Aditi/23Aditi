@@ -1,19 +1,5 @@
 ## Hi there 👋
 
-<!--
-**23Aditi/23Aditi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 # Welcome to My GitHub Profile! 🌟
 
 Hi there! I'm Aditi, a passionate learner and coder, documenting my journey through the world of programming and life. Let me take you through what my GitHub represents and a bit about who I am.
@@ -41,6 +27,8 @@ My dream company isn’t just about the highest package; it’s about being in a
 ### 🔵 **Leetcode**
 This is where I push my solutions to daily LeetCode challenges. It also contains documentation of all the other problems I’ve solved, including those on Trees and Graphs. This repository reflects my consistent practice and growing expertise in problem-solving using **C++**.
 
+[Visit my LeetCode](https://leetcode.com/u/ADITI_23_02/)
+
 ### 🟡 **JS (JavaScript)**
 A work-in-progress repository that evolves as I learn. My aim is to create comprehensive notes and document my coding journey in **JavaScript**. It’s a space where I’ll continue to grow and refine my knowledge.
 
@@ -52,11 +40,45 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 
 ---
 
+## My Stats 📊
+
+### 📈 **Total Problems Solved (LeetCode + GFG)**:  
+**LeetCode:** ![LeetCode Badge](https://img.shields.io/badge/LeetCode-%20%F0%9F%92%96-%231F8F00)  
+**GFG:** ![GFG Badge](https://img.shields.io/badge/GFG-%20%F0%9F%92%96-%23E76F51)  
+**Total Solved:** `[Auto-Updating Counter Placeholder]`
+
+---
+
 ## Beyond Coding 🌟
 I’m someone who loves pondering over the meaning of life, values depth of character, and believes in the power of good company. Coding is not just a profession for me; it’s a way to express creativity, solve problems, and continuously challenge myself to grow.
 
 ---
 
 ## Let’s Connect 🌐
+- **Email**: [aditi230206@gmail.com](mailto:aditi230206@gmail.com)
+- **LinkedIn**: [Aditi on LinkedIn](https://www.linkedin.com/feed/)
+- **Medium**: [Life Lessons on Medium](https://medium.com/@ADITI23)
+- **GeeksforGeeks**: [Aditi's Profile on GFG](https://www.geeksforgeeks.org/user/aditi2ysny/)
+
 Feel free to explore my repositories and join me in this journey. Together, let’s learn, grow, and create something magical! ✨
 
+---
+
+## Profile Views & Coding Journey 📌
+
+![Profile Views](https://komarev.com/ghpvc/?username=23Aditi)
+
+![Coding Journey](https://media.giphy.com/media/Y3wz5mrj6nT2FzEoh9/giphy.gif) 
+
+---
+
+## My GitHub Repositories:
+
+- [**Leetcode**](https://github.com/23Aditi/LeetCode)
+- [**JS (JavaScript)**](https://github.com/23Aditi/JS)
+- [**Data Structures and Algorithms**](https://github.com/23Aditi/Data-Structures-and-Algorithms)
+- [**Object-Oriented Programming**](https://github.com/23Aditi/Object-Oriented-Programming)
+
+---
+
+> "Learning is a journey, and every step makes a difference." – Aditi
