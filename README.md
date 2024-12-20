@@ -46,8 +46,7 @@ This repository is complete and covers all core OOP topics, from inheritance to 
 <!--**LeetCode:** ![LeetCode Badge](https://img.shields.io/badge/LeetCode-%20%F0%9F%92%96-%231F8F00)  
 **GFG:** ![GFG Badge](https://img.shields.io/badge/GFG-%20%F0%9F%92%96-%23E76F51)  
 **Total Solved:** `[Auto-Updating Counter Placeholder]`-->
-![](https://leetcard.jacoblin.cool/ADITI_23_02?ext=heatmap?font=milonga)
----
+![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)---
 
 ## Beyond Coding 🌟
 I’m someone who loves pondering over the meaning of life, values depth of character, and believes in the power of good company. Coding is not just a profession for me; it’s a way to express creativity, solve problems, and continuously challenge myself to grow.
