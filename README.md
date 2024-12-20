@@ -74,10 +74,6 @@ Feel free to explore my repositories and join me in this journey. Together, letâ
 
 ### Keep Growing
 
-![Coding Journey](https://media.giphy.com/media/Y3wz5mrj6nT2FzEoh9/giphy.gif)
-
-### GIF from GIPHY
-
 ![Mental Health GIF](https://media.giphy.com/media/gHL0GceDO9omiSXFLQ/giphy.gif)
 
 ---
