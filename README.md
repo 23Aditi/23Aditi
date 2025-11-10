@@ -38,6 +38,15 @@ Though currently in its early stages, this repository will be updated over time 
 ### 🟣 **OOP (Object-Oriented Programming)**
 This repository is complete and covers all core OOP topics, from inheritance to templates to file handling. It also includes explanations and assignments. Written in **Java**, it’s a comprehensive resource for anyone wanting to learn OOP.
 
+### 🟡 **Design and Analysis of Algorithms (DAA)**
+Hands-on repository demonstrating algorithm paradigms like Greedy, Dynamic Programming and Backtracking, with explanations of correctness, optimality, and empirical performance.
+
+### 🔴 **Operating Systems (OS)**
+C repository implementing key OS concepts, processes, scheduling, and resource management exercises.
+
+### 🟠 **Machine Learning (ML)**
+Jupyter Notebook repo exploring ML algorithms, data analysis, and practical applications with Python.
+
 ---
 
 ## My Stats 📊
