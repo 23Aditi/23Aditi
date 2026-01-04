@@ -69,9 +69,6 @@ Below are some visual representations of my coding progress:
 
 ![GitHub Total Bicycle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-total-bicycle.svg)
 
-### 🔵 **LeetCode Total Info Circle:**
-
-![LeetCode Total Info Circle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/leetcode-total-info-circle.svg)
 
 ---
 
