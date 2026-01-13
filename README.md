@@ -59,16 +59,6 @@ Below are some visual representations of my coding progress:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?ext=heatmap)
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/ADITI_23_02?theme=unicorn)-->
 
-### 📊 **GitHub Language Stats:**
-
-![GitHub Languages Pie Chart](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-languages-pie-chart.svg)
-
-![GitHub Languages Sledge](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-languages-sledge.svg)
-
-### 🚴‍♂️ **GitHub Total Contributions:**
-
-![GitHub Total Bicycle](https://github.com/23Aditi/github-leetcode-stats/raw/main/assets/github-total-bicycle.svg)
-
 
 ---
 
